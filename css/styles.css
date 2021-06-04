@@ -1,0 +1,118 @@
+body{
+  margin-left: 500px;
+}
+
+
+.ss {
+text-align: left;
+}
+.name{
+  font-weight: bolder;
+  padding-bottom: 5px;
+}
+.name:after
+{
+  content:'*';
+  color:red;
+}
+.smallcase{
+  padding-top: 15px;
+}
+.we
+{
+  font-size: small;
+  position: absolute;
+ left:680px;
+ top:110px;
+ opacity: 0.5;
+ padding: 3px;
+}
+.wf
+{
+  font-size: small;
+  position: absolute;
+  top:110px;
+  left:510px;
+  opacity: 0.5;
+  padding: 3px;
+}
+.eemail{
+    font-weight: bolder;
+}
+.eemail:after{
+  content:'*';
+  color:red;
+}
+.name1{
+    font-weight: bolder;
+    padding-top: 10px
+}
+.name1:after
+{
+  content:'*';
+  color:red;
+}
+.name2
+{
+  font-weight: bolder;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.name2:after
+{
+  content:'*';
+  color:red;
+}
+.star
+{
+  padding-top: 5px;
+
+}
+.checked {
+  color: orange;
+  padding-right: 5px
+
+}
+.over{
+  font-size: medium;
+  opacity: 0.5;
+}
+.purchase{
+  position: fixed;
+}
+.rating{
+  font-size: small;
+  padding-left: 100px;
+}
+.r2{
+  margin-right: 20px
+}
+.rating1{
+width: 500px;
+margin-right: 20px;
+}
+.r3{
+  background-color: #deedf0;
+  width: 500px;
+}
+.t2
+{
+  margin-left: 63.5px;
+}
+.t8{
+  margin-left: 43.5px;
+}
+.rating5{
+  font-size: small;
+  margin-left:140px;
+
+}
+.rating2{
+  width:500px;
+  height:20px;
+  background-color: #deedf0;
+}
+.submit{
+  height: 50px;
+  width: 70px;
+}
